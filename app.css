@@ -1,0 +1,27 @@
+body {
+	background-color: pink;
+	font-family: "Nunito", sans-serif;
+}
+
+
+
+#myBrand{
+    color: #EA1C2C;
+    font-size: 1.5rem;
+}
+
+#myBrand:hover{
+    color: white;
+}
+
+.navbar a{
+	color: white;
+}
+
+.navbar a:hover{
+	color: red;
+}
+
+.navbar-brand{
+	color: red;
+}
