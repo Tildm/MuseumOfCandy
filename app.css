@@ -1,5 +1,5 @@
 body {
-	background-color: pink;
+	background-color: #f5d9d5;
 	font-family: "Nunito", sans-serif;
 }
 
@@ -19,11 +19,17 @@ body {
 }
 
 .navbar a:hover{
-	color: red;
+	color: #EA1C2C;
 }
 
 .navbar-brand{
-	color: red;
+	color: #EA1C2C;
+}
+
+.title{
+	color: #EA1C2C;
+	font-weight: 100;
+	font-size: 2.5rem;
 }
 
 #myText{
@@ -32,9 +38,22 @@ body {
 }
 
 #myText span{
-	color: red;
+	color: #EA1C2C;
 	font-weight: 100;
 	font-size: 3rem;
+}
+
+.textAbout{
+	color: #f498b8;
+	font-weight: 100;
+	font-size: 1.125;
+	line-height: 2;
+	margin-bottom: 100px;
+}
+
+.box{
+	margin-top: 100px;
+	margin-bottom: 100px;
 }
 
 @media(max-width: 1200px){
